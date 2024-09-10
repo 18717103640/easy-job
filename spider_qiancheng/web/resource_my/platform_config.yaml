@@ -1,0 +1,14 @@
+platform:
+  name: 'qiancheng'
+  day_limit: 1000
+  prefix_parameter: '?keyword=Java'
+  base_url: 'https://we.51job.com/pc/search'
+
+channel:
+  name: 'job_list'
+
+qiancheng:
+  city: 深圳
+  area: 0
+  district: 0
+

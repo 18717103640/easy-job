@@ -1,0 +1,16 @@
+{
+  "status": "1",
+  "message": "成功",
+  "resultbody": {
+    "searchType": 2,
+    "engineKeywordType": 0,
+    "requestId": "619e65968aa94bd8ee3f20170b2ac14e",
+    "job": {
+      "items": [],
+      "totalCount": 0,
+      "requestId": "619e65968aa94bd8ee3f20170b2ac14e",
+      "policies": "{\"layer_qp_v1\":\"2404_0\"}",
+      "totalcount": 0
+    }
+  }
+}
